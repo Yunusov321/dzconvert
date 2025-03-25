@@ -1,0 +1,16 @@
+body {
+    border: 2px solid red;
+    width: 470px;
+    text-align: center;
+    align-items: center;
+}
+
+.inputik {
+    width: 300px;
+}
+
+.button1 {
+    width: 170px;
+    background-color: green;
+    color: white;
+}
